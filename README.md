@@ -5,7 +5,7 @@
   <p align="center">
     Saar Stern: <a href="https://www.linkedin.com/in/saar-stern-a43413246/">LinkedIn</a> , <a href="https://github.com/saarst">GitHub</a>
   <br>
-    Bar Weiss: <a href="https://www.linkedin.com/in/bar-weiss-49459b248/">LinkedIn</a> , <a href="">GitHub</a>
+    Bar Weiss: <a href="https://www.linkedin.com/in/bar-weiss-49459b248/">LinkedIn</a> , <a href="https://github.com/barweiss1">GitHub</a>
   <br>
 
 
